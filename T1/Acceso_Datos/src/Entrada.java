@@ -1,7 +1,7 @@
  public class Entrada {
 
 //para que este codigo no de fallo con solo esta parte, se debe cumplir, en concreto la palabra entrada, es
-// ir en mayusculas la primera con matusculas y tal y como se nombre el fichero, debe ser el mismo, es decir,
+// ir en mayusculas la primera con mayusculas y tal y como se nombre el fichero, debe ser el mismo, es decir,
 // la clase publica tiene que coincidir con el nombre del fichero. si lo que quiero hacer es una clase privada
 // primero tiene que haber una publica.//
 public static void main(String[] args) {
